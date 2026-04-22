@@ -1,4 +1,4 @@
-# List Operations in Python: Sum of List Items
+# 1.List Operations in Python: Sum of List Items
 
 ## 🎯 Aim
 To write a Python program that calculates the **sum of all elements** in a list.
@@ -24,7 +24,7 @@ print(sum(L)))
 
 Thus, the program has been successfully executed.
 
-# Regex in Python: Filter Words Without the Letter 'e'
+# 2.Regex in Python: Filter Words Without the Letter 'e'
 
 ## 🎯 Aim
 To write a Python program that filters out and returns all elements from a list **that do not contain the letter `'e'`**, using **regular expressions (regex)**.
@@ -97,7 +97,7 @@ remove(a,n)
 
 Thus the program has been successfully executed
 
-# Strings-Palindrome Check in Python (Without Built-in Functions)
+# 4.Strings-Palindrome Check in Python (Without Built-in Functions)
 
 ## 🎯 Aim
 To write a Python program to check whether the string `"google"` is a **palindrome** or not, without using built-in palindrome checking functions.
@@ -132,7 +132,7 @@ else:
 
 Thus the program has been successfully executed
 
-# Tuple in Python: Check Element Existence
+# 5.Tuple in Python: Check Element Existence
 
 ## 🎯 Aim
 To write a Python program that checks if the element `'n'` and the element `8` exist within a given tuple.
